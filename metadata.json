@@ -1,0 +1,11 @@
+{
+  "name": "HormonaFlow - Your AI Syncing Coach",
+  "description": "A mindful menstrual and hormonal tracking webapp designed for iPhone. Track hunger, cravings, and cycle phases with an AI agent that helps you understand patterns without calorie counting.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ],
+  "capabilities": [
+    "health_kit_sync"
+  ]
+}
